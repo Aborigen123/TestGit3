@@ -1,0 +1,1 @@
+Test. Java local repository
